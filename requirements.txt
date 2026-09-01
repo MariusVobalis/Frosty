@@ -1,0 +1,11 @@
+pycaw
+comtypes
+opencv-python
+psutil
+mss
+pillow
+pynput
+edge-tts
+pygame
+paddleocr
+numpy
