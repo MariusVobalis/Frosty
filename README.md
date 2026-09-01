@@ -111,8 +111,7 @@ If it saves you from another wall of quest text, send a tip:
 
 **(https://revolut.me/marektmhq)**
 
-Do not put your IBAN, card number, or full bank details in this file.
-A public payment link is enough. Tips are optional. No paywall.
+Passion project. If it gets used, I’ll keep building on it.
 
 ---
 
